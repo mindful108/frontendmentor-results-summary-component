@@ -1,8 +1,7 @@
 # Frontend Mentor - Results summary component solution
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV), and my VERY FIRST Frontend Mentor challenges. Ready for my next one...
+This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV), and my VERY FIRST Frontend Mentor challenge. Totally ready for my next one...
 
-This read me is also the first one I've done for a Frontend Mentor project so it may be a litte rough. I'll probably re-edit after my next one as I get more comfortable with the format.
 
 ## Table of contents
 
@@ -29,22 +28,23 @@ Users should be able to:
 
 ### Screenshot
 
-[Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-summary-component-using-html-and-css-TP1ZsM-vfc)
+- Live Site URL: [Github Pages](https://mindful108.github.io/frontendmentor-results-summary-component/)
 
 ## My process
 
-I really liked the look of the desktop version of this design, which is what caught my eye and pulled me into the challenge, so I did that first. I them refactored my CSS for a mobile first approach, using a min-width breakpoint of 775px. 
+I really liked the look of the desktop version of this design, which is what first caught my eye and pulled me into the challenge, so I did that first. I then refactored my CSS for a 'mobile first' approach, using a min-width breakpoint of 775px. I then took the design a little further for very small phones/devices down to 265px.
 
 
 ### Built with
 
-My own hand-typed code using VS Code with some help from the Emmet extension. Tried to keep the code as simple and clean as possible, which is pretty much my approach to everything.
+My own hand-typed code using VS Code with some help from the Emmet extension. I tried to keep the code as simple and clean as possible.
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -52,13 +52,13 @@ My own hand-typed code using VS Code with some help from the Emmet extension. Tr
 
 ### What I learned
 
-For me the big learning was getting familiar with Frontendmentor.io and the process for completing and uploading projects. Next step is to begin contributing to the community by offering feedback on other challenges.
+For me the big learning was just getting familiar with Frontendmentor.io and the process for completing and uploading projects. Next step is to begin contributing to the community by offering feedback on other challenges.
 
-As far as code is concerned, just good practice with Flexbox.
+As far as code is concerned, it was good to practice with Flexbox and to refine my own web/frontend development process.
 
 ### Continued development
 
-I will continue to build-on and practice my skills in HTML and CSS, probably just using Vanilla JavaScript right now for these projects when needed. I am picking up TailwindCSS now and so may use that soon. Then later using React for more JavaScript heavy challenges.
+I will continue to practice and build-on my skills in HTML and CSS, just using Vanilla JavaScript right now for these projects when needed. I am now picking up Tailwind CSS and so may use that soon, the React for more JavaScript heavy challenges in the future.
 
 ## Author
 
